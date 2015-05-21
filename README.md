@@ -18,8 +18,12 @@ Read more about various facets of Linux containers:
 Read more about Docker and Linux containers:
 
 -  [Linux Containers and Docker](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/7.0_Release_Notes/chap-Red_Hat_Enterprise_Linux-7.0_Release_Notes-Linux_Containers_with_Docker_Format.html)
+-  [Docker and kernel namespaces](http://crosbymichael.com/creating-containers-part-1.html)
 
 #### Kubernetes
 
+-  [Pods](https://github.com/GoogleCloudPlatform/kubernetes/blob/master/docs/pods.md)
+-  [Replication Controllers](https://github.com/GoogleCloudPlatform/kubernetes/blob/master/docs/replication-controller.md)
+-  [Services](https://github.com/GoogleCloudPlatform/kubernetes/blob/master/docs/services.md)
 
 #### OpenShift
