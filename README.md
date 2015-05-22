@@ -27,3 +27,5 @@ Read more about Docker and Linux containers:
 -  [Services](https://github.com/GoogleCloudPlatform/kubernetes/blob/master/docs/services.md)
 
 #### OpenShift
+
+-  [OpenShift docs](http://docs.openshift.org/latest/welcome/index.html)
