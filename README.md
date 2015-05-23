@@ -4,7 +4,9 @@ Supplemental materials for my talk at codeshow 2015.
 
 #### OpenShift
 
+-  [OpenShift v3 Deep Dive](https://blog.openshift.com/openshift-v3-deep-dive-docker-kubernetes/)
 -  [OpenShift docs](http://docs.openshift.org/latest/welcome/index.html)
+-  [Applied DevOps w/ OpenShift](https://blog.openshift.com/applied-devops-tools-and-techniques-to-change-your-enterprise-red-hat-summit/)
 -  [OpenShift v3 Platform Combines Docker, Kubernetes, Atomic, and more](https://blog.openshift.com/openshift-v3-platform-combines-docker-kubernetes-atomic-and-more/)
 
 #### Kubernetes
